@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 @dataclass
 class res:
-    result: int
+    res: int
 
 from flask import Flask
 
